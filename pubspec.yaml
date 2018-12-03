@@ -47,10 +47,10 @@ flutter:
    - assets/icons/time.png
    - assets/icons/volume.png
 
-  # To add custom fonts to your application, add a fonts section here,
-  # in this "flutter" section. Each entry in this list should have a
-  # "family" key with the font family name, and a "fonts" key with a
-  # list giving the asset and other descriptors for the font. For
+  fonts:
+   - family: Raleway
+     fonts:
+      - asset: third_party/Raleway-Regular.ttf
   # example:
   # fonts:
   #   - family: Schyler
